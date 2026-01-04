@@ -172,9 +172,9 @@ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for detailed instructions on reprod
 
 3. **RNNs show promise but lag ensembles**: GRU and LSTM achieve R² > 0.90 but require 11-13× longer training time and exhibit higher sensitivity to distributional shifts.
 
-4. **Architectural complexity ≠ better performance**: CNN-BiGRU-Attention underperforms (R² = 0.5424, negative skill score), demonstrating that sophisticated architectures without domain constraints can degrade generalization.
+4. **Architectural complexity ≠ better performance:** CNN-BiGRU-Attention underperforms (R² = 0.5424, negative skill score), demonstrating that sophisticated architectures without domain constraints can degrade generalization.
 
-## 🛠️ Future Work
+🛠️ **Future Work**
 
 - [ ] Add model implementation code
 - [ ] Include Jupyter notebook tutorials
@@ -183,23 +183,23 @@ See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for detailed instructions on reprod
 - [ ] Transfer learning to other geographic locations
 - [ ] Real-time deployment framework
 
-## 📄 License
+📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+🙏 **Acknowledgments**
 
 - NASA POWER project for providing open-access meteorological data
 - Hengsha Island meteorological station
 - Shanghai climate research community
 
-## 📧 Contact
+📧 **Contact**
 
 For questions or collaborations:
-- **Email**: your.email@institution.edu
-- **Issues**: [GitHub Issues](https://github.com/yourusername/Solar_PV_Forecasting_Benchmark/issues)
+Email: mabbas@zyufl.edu.cn
+Issues: [GitHub Issues](https://github.com/yourusername/Solar_PV_Forecasting_Benchmark/issues)
 
-## 🌐 Related Resources
+🌐 **Related Resources**
 
 - [NASA POWER Data Access](https://power.larc.nasa.gov/)
 - [Solar Forecasting Research Community](https://solarforecastarbiter.org/)
